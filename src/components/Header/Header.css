@@ -1,0 +1,19 @@
+header{
+    background-color: #ececec;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 2px 4px #2c662c8f;
+}
+
+.text-field{
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+header .text-field:hover{
+    color: red;
+}
